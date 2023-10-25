@@ -1,6 +1,7 @@
-# Fusion & Perception Group
+<img src="https://github.com/Fusion-Perception-Group/.github/assets/104612478/85269c59-9b2b-4c7e-baf1-dc196749de64" alt="drawing" width="1000" align="center"/>
 
-Welcome to the Fusion & Perception Group's GitHub presence, where we tackle tech with all the enthusiasm of a coffee-deprived robot, or a drone with acrophobia!
+# Fusion & Perception Group
+<p align="left">Welcome to the Fusion & Perception Group's GitHub presence, where we tackle tech with all the enthusiasm of a coffee-deprived robot, or a drone with acrophobia!</p>
 
 ## 🧐 About Us
 At Fusion & Perception Group, we're that group of folks who look at drones, interactions, and robots and think, "Hmmm, what if?" 
