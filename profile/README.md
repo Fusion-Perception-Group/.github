@@ -1,4 +1,4 @@
-<img src="https://github.com/Fusion-Perception-Group/.github/assets/104612478/85269c59-9b2b-4c7e-baf1-dc196749de64" alt="drawing" width="1000" align="center"/>
+<img src="https://github.com/Fusion-Perception-Group/.github/assets/104612478/1e2f64b8-b1a3-4f4a-a533-245b0c6af2e9" alt="drawing" width="1000" align="center"/>
 
 # Fusion & Perception Group
 <p align="left">Welcome to the Fusion & Perception Group's GitHub presence, where we tackle tech with all the enthusiasm of a coffee-deprived robot, or a drone with acrophobia!</p>
